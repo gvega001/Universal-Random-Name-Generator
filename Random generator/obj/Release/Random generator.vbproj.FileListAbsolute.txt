@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\bin\Release\Universal Random Name Generator.exe.config
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\bin\Release\Universal Random Name Generator.exe
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\bin\Release\Universal Random Name Generator.pdb
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\bin\Release\Universal Random Name Generator.xml
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Release\Random_generator.Form1.resources
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Release\Random_generator.Form2.resources
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Release\Random_generator.Resources.resources
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Release\Random_generator.Namelist.resources
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Release\Random generator.vbproj.GenerateResource.Cache
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Release\Universal Random Name Generator.exe
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Release\Universal Random Name Generator.xml
+C:\Users\asus\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Release\Universal Random Name Generator.pdb

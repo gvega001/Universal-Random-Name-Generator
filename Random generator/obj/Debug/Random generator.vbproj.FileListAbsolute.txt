@@ -1,0 +1,34 @@
+C:\Users\涵之\Desktop\vb.net编程\Random generator\Random generator\Random generator\bin\Debug\Random generator.exe
+C:\Users\涵之\Desktop\vb.net编程\Random generator\Random generator\Random generator\bin\Debug\Random generator.pdb
+C:\Users\涵之\Desktop\vb.net编程\Random generator\Random generator\Random generator\bin\Debug\Random generator.xml
+C:\Users\涵之\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random_generator.Form1.resources
+C:\Users\涵之\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random_generator.Resources.resources
+C:\Users\涵之\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random generator.vbproj.GenerateResource.Cache
+C:\Users\涵之\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random generator.exe
+C:\Users\涵之\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random generator.xml
+C:\Users\涵之\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random generator.pdb
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\bin\Debug\Random Name Generator.exe
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\bin\Debug\Random Name Generator.pdb
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\bin\Debug\Random Name Generator.xml
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random_generator.Form1.resources
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random_generator.Resources.resources
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random generator.vbproj.GenerateResource.Cache
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random Name Generator.exe
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random Name Generator.xml
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random Name Generator.pdb
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Random generator\Random generator\obj\Debug\Random generator.vbprojResolveAssemblyReference.cache
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\bin\Debug\Universal Random Name Generator.exe
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Random_generator.Form1.resources
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Random_generator.Resources.resources
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Random_generator.Namelist.resources
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Random generator.vbproj.GenerateResource.Cache
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Universal Random Name Generator.exe
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Universal Random Name Generator.xml
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Universal Random Name Generator.pdb
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Random generator.vbprojResolveAssemblyReference.cache
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\bin\Debug\Universal Random Name Generator.pdb
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\bin\Debug\Universal Random Name Generator.xml
+C:\Users\Zhou\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Random_generator.Form2.resources
+C:\Users\hanzh\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Universal Random Name Generator.exe
+C:\Users\hanzh\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Universal Random Name Generator.xml
+C:\Users\hanzh\Desktop\vb.net编程\Random generator\Universal Random Name Generator\Random generator\obj\Debug\Universal Random Name Generator.pdb
